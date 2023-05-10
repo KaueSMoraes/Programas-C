@@ -29,7 +29,7 @@ void add_lista(int x, int y){
     primeirodalista = lista;
 };
 
-int main (){
+int main(){
 
 
 int x, y;
