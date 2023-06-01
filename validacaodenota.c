@@ -13,6 +13,7 @@ scanf("%f", &nota1);
         printf ("Nota Invalida, digite novamente");
         scanf("%f", &nota1);
     }
+    if ();
 printf("Digite a segunda nota: ");
 scanf("%f", &nota2);
     while(nota2<0 || nota2>10){
@@ -23,3 +24,4 @@ scanf("%f", &nota2);
     printf("MEDIA: %.2f", media);
 return 0;
 }
+//Código novo da branch nova
